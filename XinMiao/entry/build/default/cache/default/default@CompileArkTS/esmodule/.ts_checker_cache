@@ -1,0 +1,1179 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:9:3.2.12.5:Release",
+  "fileList": {
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\model\\WindowModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\LoginPage.ets": {
+      "mtimeMs": 1710082732626.9736,
+      "children": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\model\\WindowModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\HomePage.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\GridItem.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\VerifyPage.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\VerifyItem.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\SuccessPage.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\model\\WindowModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [],
+      "parent": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\model\\WindowModel.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\HomePage.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\VerifyPage.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\SuccessPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\utils\\Logger.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [],
+      "parent": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\model\\WindowModel.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\VerifyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\model\\WindowModel.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\utils\\GlobalContext.ets"
+      ],
+      "parent": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\SuccessPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\common\\utils\\GlobalContext.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [],
+      "parent": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\model\\WindowModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.display.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\GridItem.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [],
+      "parent": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\HomePage.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\GridItem.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\VerifyItem.ets"
+      ],
+      "parent": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\HomePage.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\VerifyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\VerifyItem.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [],
+      "parent": [
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets",
+        "E:\\Project\\WindowManager\\WindowManager\\entry\\src\\main\\ets\\pages\\VerifyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets": {
+      "mtimeMs": 1712623197563.2136,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\WindowModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\PreferencesUtil.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\TaskModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\LoginPage.ets": {
+      "mtimeMs": 1712623526767.1145,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\WindowModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HomePage.ets": {
+      "mtimeMs": 1713015415973.9336,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\GridItem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\VerifyPage.ets": {
+      "mtimeMs": 1713015408553.9832,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\VerifyItem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\SuccessPage.ets": {
+      "mtimeMs": 1712495792039.0457,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\WindowModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1712625401626.1165,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\WindowModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HomePage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\VerifyPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\SuccessPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HealthyPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordList.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\SearchHeader.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\CalorieStats.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\NutrientStats.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\Logger.ets": {
+      "mtimeMs": 1712625832504.8455,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\WindowModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\VerifyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\WindowModel.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\Logger.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\GlobalContext.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\SuccessPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\GlobalContext.ets": {
+      "mtimeMs": 1697793768000,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\WindowModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\GridItem.ets": {
+      "mtimeMs": 1710326970578.5815,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HomePage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets": {
+      "mtimeMs": 1712624060422.1477,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\GridItem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\VerifyItem.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HomePage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\VerifyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\VerifyItem.ets": {
+      "mtimeMs": 1711294424193.2368,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\WindowViewModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\VerifyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\MissionPage.ets": {
+      "mtimeMs": 1711550566715.437,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\PreferencesUtil.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\CycleControl.ets": {
+      "mtimeMs": 1712483280223.312,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\Page.ets": {
+      "mtimeMs": 1710326719415.9424,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets": {
+      "mtimeMs": 1710323928312.4714,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\MissionPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\CycleControl.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\StudyCheck.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumListPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumCommunityPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\TaskManagePage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\SearchHeader.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\StudyCheck.ets": {
+      "mtimeMs": 1712676062704.6184,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\Service\\Applicant.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\Service\\Geo.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\MediaBean.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\helper\\MediaHelper.ts"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\GamePage.ets": {
+      "mtimeMs": 1712834732939.7434,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\AbilityStage\\AbilityStage.ts": {
+      "mtimeMs": 1710926550451.1309,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\forumability\\ForumAbility.ts": {
+      "mtimeMs": 1710924581906.079,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1710924206936.7708,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumPage.ets": {
+      "mtimeMs": 1710926725621.7544,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumListPage.ets": {
+      "mtimeMs": 1712468205837.2017,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityStage.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\AbilityStageContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\ExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\application\\FormExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityHelper.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityOperation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.ability.featureAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\ability\\startAbilityParameter.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\app\\context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\applicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\hapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\abilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\bundle\\bundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.dataAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.rdb.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumCommunityPage.ets": {
+      "mtimeMs": 1712758593856.3796,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ForumItem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ForumInfo.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ForumModel.ts"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ForumItem.ets": {
+      "mtimeMs": 1711361729594.8872,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ForumInfo.ts"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumCommunityPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ForumInfo.ts": {
+      "mtimeMs": 1711358443862.5522,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumCommunityPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ForumItem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ForumModel.ts"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ForumModel.ts": {
+      "mtimeMs": 1712758307306.1877,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ForumInfo.ts"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\ForumCommunityPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.net.http.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\PreferencesUtil.ts": {
+      "mtimeMs": 1711548937475.1338,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\MissionPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.preferences.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.measure.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\TaskManagePage.ets": {
+      "mtimeMs": 1712016805634.809,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskStatistics.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskList.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\TaskModel.ets": {
+      "mtimeMs": 1712931739520.0981,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\TaskInfo.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskList.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskItem.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\TaskInfo.ets": {
+      "mtimeMs": 1704219503000,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\TaskModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskList.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskItem.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.relationalStore.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.geoLocationManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.wantAgent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\wantAgent\\wantAgentInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\wantAgent\\triggerInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskStatistics.ets": {
+      "mtimeMs": 1712017049000.5254,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\TaskManagePage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskList.ets": {
+      "mtimeMs": 1712931835974.0889,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\TaskInfo.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskItem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\TaskModel.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\TaskManagePage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskItem.ets": {
+      "mtimeMs": 1712931681453.739,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\TaskModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\TaskInfo.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\task\\TaskList.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\Service\\Applicant.ts": {
+      "mtimeMs": 1712492498209.0112,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\StudyCheck.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\Service\\Geo.ts": {
+      "mtimeMs": 1712495453628.5083,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\Service\\Detector.ts"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\StudyCheck.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.abilityAccessCtrl.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\Service\\Detector.ts": {
+      "mtimeMs": 1712492477879.0696,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\Service\\Geo.ts"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HealthyPage.ets": {
+      "mtimeMs": 1712628263916.682,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\BreanpointType.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\WelcomePage.ets": {
+      "mtimeMs": 1712623932741.813,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\BreanpointType.ets": {
+      "mtimeMs": 1706194475318.2063,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HealthyPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets": {
+      "mtimeMs": 1706194605889.59,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\BreanpointType.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HealthyPage.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\BreakpointSystem.ets": {
+      "mtimeMs": 1706193659111.7012,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HealthyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets": {
+      "mtimeMs": 1706423603810.7612,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DateUtil.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordVO.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordList.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\SearchHeader.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\HealthyPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.mediaquery.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DateUtil.ts": {
+      "mtimeMs": 1705635734696.334,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets": {
+      "mtimeMs": 1706600662961.2659,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\RecordPO.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DateUtil.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordTypeModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\GroupInfo.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordType.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordVO.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\StatsInfo.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordList.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordVO.ets": {
+      "mtimeMs": 1706360045468.682,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordItem.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordList.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordList.ets": {
+      "mtimeMs": 1712627362085.434,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\GroupInfo.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordType.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordVO.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\SearchHeader.ets": {
+      "mtimeMs": 1712628031664.0713,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\components\\CommonComponent.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets": {
+      "mtimeMs": 1712627419557.0552,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\BreanpointType.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\BreakpointConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DateUtil.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordVO.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\StatsInfo.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\CalorieStats.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\DatePickDialog.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\NutrientStats.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordIndex.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\RecordPO.ets": {
+      "mtimeMs": 1706406525682.4563,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemModel.ets": {
+      "mtimeMs": 1706420299043.7485,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordItem.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ItemCategory.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemCategoryModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\GroupInfo.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordModel.ets": {
+      "mtimeMs": 1706600525267.3167,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\ColumnInfo.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\RecordPO.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DbUtil.ts"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordTypeModel.ets": {
+      "mtimeMs": 1706360034812.7317,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordType.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\GroupInfo.ets": {
+      "mtimeMs": 1706421034987.0627,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordList.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordType.ets": {
+      "mtimeMs": 1706359851105.2996,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordTypeModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\RecordList.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\StatsInfo.ets": {
+      "mtimeMs": 1706406406257.1055,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\service\\RecordService.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordItem.ets": {
+      "mtimeMs": 1706250650389.6123,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\RecordVO.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ItemCategory.ets": {
+      "mtimeMs": 1706250627559.7466,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemCategoryModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemCategoryModel.ets": {
+      "mtimeMs": 1706259370235.2832,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\viewmodel\\ItemCategory.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\ItemModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\ColumnInfo.ts": {
+      "mtimeMs": 1706360173414.793,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordModel.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DbUtil.ts"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DbUtil.ts": {
+      "mtimeMs": 1712625843895.909,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\ColumnInfo.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\Logger_health.ts"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\model\\RecordModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\Logger_health.ts": {
+      "mtimeMs": 1705627847939.208,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\utils\\DbUtil.ts"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\CalorieStats.ets": {
+      "mtimeMs": 1712628194929.272,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\DatePickDialog.ets": {
+      "mtimeMs": 1712626546741.083,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\NutrientStats.ets": {
+      "mtimeMs": 1712626626175.4185,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\view\\record\\StatsCard.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\PhotoPage.ets": {
+      "mtimeMs": 1712675296702.9707,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\MediaBean.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\helper\\MediaHelper.ts"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\MediaBean.ts": {
+      "mtimeMs": 1712675253955.052,
+      "children": [],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\StudyCheck.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\helper\\MediaHelper.ts",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\PhotoPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\helper\\MediaHelper.ts": {
+      "mtimeMs": 1712675384115.5496,
+      "children": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\common\\bean\\MediaBean.ts"
+      ],
+      "parent": [
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\StudyCheck.ets",
+        "E:\\Project\\XinMiao\\entry\\src\\main\\ets\\pages\\PhotoPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.file.picker.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\huawei\\Sdk\\openharmony\\9\\ets\\api\\@ohos.multimedia.mediaLibrary.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "新苗同学"
+    },
+    {
+      "name": "login_page",
+      "value": "登录界面"
+    },
+    {
+      "name": "login_more",
+      "value": "登录帐号以使用更多服务"
+    },
+    {
+      "name": "account",
+      "value": "帐号"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "verify",
+      "value": "验证码检测"
+    },
+    {
+      "name": "register_account",
+      "value": "注册帐号"
+    },
+    {
+      "name": "forgot_password",
+      "value": "忘记密码"
+    },
+    {
+      "name": "message_login",
+      "value": "短信验证码登录"
+    },
+    {
+      "name": "change_one",
+      "value": "换一张"
+    },
+    {
+      "name": "verify_input_placeholder",
+      "value": "请输入验证码"
+    },
+    {
+      "name": "verify_wrong_hints",
+      "value": "验证码错误，请重新输入"
+    },
+    {
+      "name": "verify_hints",
+      "value": "为了保护你的网络安全，请输入验证码"
+    },
+    {
+      "name": "verify_ok",
+      "value": "确定"
+    },
+    {
+      "name": "success",
+      "value": "验证成功"
+    },
+    {
+      "name": "success_login_hints",
+      "value": "2s后自动跳转登录"
+    },
+    {
+      "name": "my_love",
+      "value": "我的点赞"
+    },
+    {
+      "name": "history_record",
+      "value": "活动记录"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "major",
+      "value": "专业详情"
+    },
+    {
+      "name": "my_goal",
+      "value": "我的目标"
+    },
+    {
+      "name": "group",
+      "value": "校园圈子"
+    },
+    {
+      "name": "favorites",
+      "value": "收藏"
+    },
+    {
+      "name": "strategy",
+      "value": "学习攻略"
+    },
+    {
+      "name": "home_top",
+      "value": "新苗排行榜"
+    },
+    {
+      "name": "home_text_top",
+      "value": "新苗Top10"
+    },
+    {
+      "name": "home_new",
+      "value": "新苗大行动"
+    },
+    {
+      "name": "home_text_new",
+      "value": "完成你自己的任务吧"
+    },
+    {
+      "name": "home_brand",
+      "value": "签到打卡"
+    },
+    {
+      "name": "home_text_brand",
+      "value": "学习签到"
+    },
+    {
+      "name": "home_found",
+      "value": "学习论坛"
+    },
+    {
+      "name": "home_text_found",
+      "value": "分享你的学习经验"
+    },
+    {
+      "name": "home_list",
+      "value": "列表"
+    },
+    {
+      "name": "home_title",
+      "value": "首页"
+    },
+    {
+      "name": "width_label",
+      "value": "image width"
+    },
+    {
+      "name": "text_label",
+      "value": "please input width of the text"
+    },
+    {
+      "name": "mission_label",
+      "value": "请记录你学习的计划"
+    },
+    {
+      "name": "top_url",
+      "value": "pages/CycleControl"
+    },
+    {
+      "name": "ForumAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ForumAbility_label",
+      "value": "新苗同学学习论坛"
+    },
+    {
+      "name": "Forumcommunity_label",
+      "value": "新苗社区"
+    },
+    {
+      "name": "Forumcommunity_content",
+      "value": "快来分享你的日常生活吧"
+    },
+    {
+      "name": "health_title",
+      "value": "新苗健康"
+    },
+    {
+      "name": "health_context",
+      "value": "快来进行锻炼吧"
+    },
+    {
+      "name": "user_privacy_title",
+      "value": "欢迎使用黑马健康"
+    },
+    {
+      "name": "user_privacy_content",
+      "value": "感谢您信任并使用黑马健康!我们将通过《用户协议》和《黑马健康隐私政策》帮助您了解我们收集、使用、存储和共享个人信息的情况，特别是我们所采集的个人信息类型与用途的对应关系。此外，您还能了解到您所享有的相关权利及实现途径。如您同意，请点击下方按钮开始接受我们的服务"
+    },
+    {
+      "name": "agree_label",
+      "value": "同意"
+    },
+    {
+      "name": "refuse_label",
+      "value": "不同意"
+    },
+    {
+      "name": "tab_record",
+      "value": "记录"
+    },
+    {
+      "name": "tab_discover",
+      "value": "发现"
+    },
+    {
+      "name": "tab_user",
+      "value": "我的"
+    },
+    {
+      "name": "breakfast",
+      "value": "早餐"
+    },
+    {
+      "name": "lunch",
+      "value": "午餐"
+    },
+    {
+      "name": "dinner",
+      "value": "晚餐"
+    },
+    {
+      "name": "extra_meal",
+      "value": "加餐"
+    },
+    {
+      "name": "workout",
+      "value": "运动"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "staple",
+      "value": "主食"
+    },
+    {
+      "name": "fruit",
+      "value": "果蔬"
+    },
+    {
+      "name": "meat",
+      "value": "肉蛋奶"
+    },
+    {
+      "name": "nut",
+      "value": "坚果"
+    },
+    {
+      "name": "other_type",
+      "value": "其它"
+    },
+    {
+      "name": "walking_type",
+      "value": "走路"
+    },
+    {
+      "name": "running",
+      "value": "跑步"
+    },
+    {
+      "name": "riding",
+      "value": "骑行"
+    },
+    {
+      "name": "aerobics",
+      "value": "跳操"
+    },
+    {
+      "name": "swimming",
+      "value": "游泳"
+    },
+    {
+      "name": "ballgame",
+      "value": "打球"
+    },
+    {
+      "name": "strength",
+      "value": "力量训练"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "XinMiao"
+    },
+    {
+      "name": "login_page",
+      "value": "Login page"
+    },
+    {
+      "name": "login_more",
+      "value": "Log in to your account to use more services"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "verify",
+      "value": "Verify"
+    },
+    {
+      "name": "register_account",
+      "value": "Registering an Account"
+    },
+    {
+      "name": "forgot_password",
+      "value": "Forgot Password"
+    },
+    {
+      "name": "message_login",
+      "value": "SMS verification code login"
+    },
+    {
+      "name": "change_one",
+      "value": "Change One"
+    },
+    {
+      "name": "verify_input_placeholder",
+      "value": "Please enter the verification code"
+    },
+    {
+      "name": "verify_wrong_hints",
+      "value": "Incorrect verification code. Please try again"
+    },
+    {
+      "name": "verify_hints",
+      "value": "To protect your network security, please enter the verification code"
+    },
+    {
+      "name": "verify_ok",
+      "value": "OK"
+    },
+    {
+      "name": "success",
+      "value": "Verification success"
+    },
+    {
+      "name": "success_login_hints",
+      "value": "The login page is automatically displayed in 2 seconds"
+    },
+    {
+      "name": "my_love",
+      "value": "My favorite"
+    },
+    {
+      "name": "history_record",
+      "value": "History"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "major",
+      "value": "major"
+    },
+    {
+      "name": "my_goal",
+      "value": "My goal"
+    },
+    {
+      "name": "group",
+      "value": "Group"
+    },
+    {
+      "name": "favorites",
+      "value": "Favorites"
+    },
+    {
+      "name": "strategy",
+      "value": "strategy"
+    },
+    {
+      "name": "home_top",
+      "value": "Rankings"
+    },
+    {
+      "name": "home_text_top",
+      "value": "XiaMen Station, we'll see you."
+    },
+    {
+      "name": "home_new",
+      "value": "New product launch"
+    },
+    {
+      "name": "home_text_new",
+      "value": "XiaMen Station, we'll see you."
+    },
+    {
+      "name": "home_brand",
+      "value": "Big-name flash shopping"
+    },
+    {
+      "name": "home_text_brand",
+      "value": "More Big Names"
+    },
+    {
+      "name": "home_found",
+      "value": "Discover the good stuff"
+    },
+    {
+      "name": "home_text_found",
+      "value": "XiaMen Station, we'll see you."
+    },
+    {
+      "name": "home_list",
+      "value": "List"
+    },
+    {
+      "name": "home_title",
+      "value": "Home"
+    },
+    {
+      "name": "width_label",
+      "value": "image width"
+    },
+    {
+      "name": "text_label",
+      "value": "please input width of the text"
+    },
+    {
+      "name": "mission_label",
+      "value": "请记录你学习的计划"
+    },
+    {
+      "name": "top_url",
+      "value": "/pages/CycleControl"
+    },
+    {
+      "name": "ForumAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ForumAbility_label",
+      "value": "新苗同学学习论坛"
+    },
+    {
+      "name": "Forumcommunity_label",
+      "value": "新苗社区"
+    },
+    {
+      "name": "Forumcommunity_content",
+      "value": "快来分享你的生活日常吧"
+    },
+
+    {
+      "name": "health_title",
+      "value": "新苗健康"
+    },
+    {
+      "name": "health_context",
+      "value": "快来进行锻炼吧"
+    },
+    {
+      "name": "user_privacy_title",
+      "value": "Welcom To Use Heima Healthy"
+    },
+    {
+      "name": "user_privacy_content",
+      "value": "Thank you for trusting and using Heima Health! We will use the 《User Agreement》 and the 《Heima Health Privacy Policy》 to help you understand our collection, use, storage and sharing of personal information, in particular the relationship between the types of personal information we collect and the purposes for which we use it. In addition, you will learn about your rights and how to achieve them. If you agree, please click the button below to start receiving our services"
+    },
+    {
+      "name": "agree_label",
+      "value": "agree"
+    },
+    {
+      "name": "refuse_label",
+      "value": "refuse"
+    },
+    {
+      "name": "tab_record",
+      "value": "record"
+    },
+    {
+      "name": "tab_discover",
+      "value": "discover"
+    },
+    {
+      "name": "tab_user",
+      "value": "mine"
+    },
+    {
+      "name": "breakfast",
+      "value": "breakfast"
+    },
+    {
+      "name": "lunch",
+      "value": "lunch"
+    },
+    {
+      "name": "dinner",
+      "value": "dinner"
+    },
+    {
+      "name": "extra_meal",
+      "value": "Extra Meal"
+    },
+    {
+      "name": "workout",
+      "value": "workout"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "staple",
+      "value": "staple"
+    },
+    {
+      "name": "fruit",
+      "value": "fruit"
+    },
+    {
+      "name": "meat",
+      "value": "meat"
+    },
+    {
+      "name": "nut",
+      "value": "nut"
+    },
+    {
+      "name": "other_type",
+      "value": "other"
+    },
+    {
+      "name": "walking_type",
+      "value": "walking"
+    },
+    {
+      "name": "running",
+      "value": "running"
+    },
+    {
+      "name": "riding",
+      "value": "riding"
+    },
+    {
+      "name": "aerobics",
+      "value": "aerobics"
+    },
+    {
+      "name": "swimming",
+      "value": "swimming"
+    },
+    {
+      "name": "ballgame",
+      "value": "ballgame"
+    },
+    {
+      "name": "strength",
+      "value": "strength"
+    }
+  ]
+}

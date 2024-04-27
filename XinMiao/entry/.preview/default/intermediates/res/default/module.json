@@ -1,0 +1,112 @@
+{
+    "app" : 
+    {
+        "apiReleaseType" : "Release",
+        "bundleName" : "com.example.XinMiao",
+        "debug" : true,
+        "icon" : "$media:app_icon",
+        "iconId" : 16777216,
+        "label" : "$string:app_name",
+        "labelId" : 16777217,
+        "minAPIVersion" : 9,
+        "targetAPIVersion" : 9,
+        "vendor" : "Esakd",
+        "versionCode" : 1000000,
+        "versionName" : "1.0.0"
+    },
+    "module" : 
+    {
+        "abilities" : 
+        [
+            {
+                "description" : "$string:EntryAbility_desc",
+                "descriptionId" : 16777329,
+                "exported" : true,
+                "icon" : "$media:app_icon",
+                "iconId" : 16777216,
+                "label" : "$string:EntryAbility_label",
+                "labelId" : 16777330,
+                "name" : "EntryAbility",
+                "orientation" : "portrait",
+                "skills" : 
+                [
+                    {
+                        "actions" : 
+                        [
+                            "action.system.home"
+                        ],
+                        "entities" : 
+                        [
+                            "entity.system.home"
+                        ]
+                    }
+                ],
+                "srcEntry" : "./ets/entryability/EntryAbility.ets",
+                "startWindowBackground" : "$color:start_window_background",
+                "startWindowBackgroundId" : 16777244,
+                "startWindowIcon" : "$media:app_icon",
+                "startWindowIconId" : 16777216
+            },
+            {
+                "description" : "$string:ForumAbility_desc",
+                "descriptionId" : 16777333,
+                "icon" : "$media:icon",
+                "iconId" : 16777275,
+                "label" : "$string:ForumAbility_label",
+                "labelId" : 16777334,
+                "launchType" : "specified",
+                "name" : "ForumAbility",
+                "srcEntry" : "./ets/forumability/ForumAbility.ts",
+                "startWindowBackground" : "$color:start_window_background",
+                "startWindowBackgroundId" : 16777244,
+                "startWindowIcon" : "$media:icon",
+                "startWindowIconId" : 16777275
+            }
+        ],
+        "compileMode" : "esmodule",
+        "deliveryWithInstall" : true,
+        "dependencies" : [],
+        "description" : "$string:module_desc",
+        "descriptionId" : 16777370,
+        "deviceTypes" : 
+        [
+            "default",
+            "tablet"
+        ],
+        "installationFree" : false,
+        "mainElement" : "EntryAbility",
+        "name" : "entry",
+        "pages" : "$profile:main_pages",
+        "requestPermissions" : 
+        [
+            {
+                "name" : "ohos.permission.INTERNET"
+            },
+            {
+                "name" : "ohos.permission.LOCATION",
+                "usedScene" : 
+                {
+                    "abilities" : 
+                    [
+                        "EntryAbility"
+                    ],
+                    "when" : "inuse"
+                }
+            },
+            {
+                "name" : "ohos.permission.APPROXIMATELY_LOCATION",
+                "usedScene" : 
+                {
+                    "abilities" : 
+                    [
+                        "EntryAbility"
+                    ],
+                    "when" : "inuse"
+                }
+            }
+        ],
+        "srcEntry" : "./ets/AbilityStage/AbilityStage.ts",
+        "type" : "entry",
+        "virtualMachine" : "ark9.0.0.0"
+    }
+}
